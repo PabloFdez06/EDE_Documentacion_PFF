@@ -21,11 +21,11 @@ Para ello voy a mostrar un par de ejemplos de cual es dicha sintaxis aplicada en
 
 [DOCUMENTACIÓN SOBRE MI PROYECTO | DIGITALIZACIÓN](ProyectoDIGI.md)
 
-## ENLACE A WEB GENERADA POR KDOC
+## ENLACE A WEB GENERADA POR DOKKA
 
 Como he explicado anteriormente, la virtud de esta tecnica de documentación es que te genera una web mostrando las clases o funciones generadas con sus propiedades, etc. por lo cual voy a adjuntar el enlace para que sea accesible directamente
 
-[ENLACE A WEB KDOC](build/dokka/index.html)
+[ENLACE A WEB DOKKA](build/dokka/index.html)
 
 **EJEMPLO DE CAPTURA RESULTADO HTML**
 
