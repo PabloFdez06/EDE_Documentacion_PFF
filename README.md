@@ -28,4 +28,8 @@ Como he explicado anteriormente, la virtud de esta tecnica de documentación es 
 
 [ENLACE A WEB KDOC](build/dokka/index.html)
 
+**EJEMPLO DE CAPTURA RESULTADO HTML**
+
+![img_2.png](img_2.png)
+
 ---
