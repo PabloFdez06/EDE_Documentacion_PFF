@@ -19,7 +19,7 @@ Para ello voy a mostrar un par de ejemplos de cual es dicha sintaxis aplicada en
 
 ## ENLACE A MI PROYECTO | DIGI
 
-[DOCUMENTACIÓN SOBRE MI PROYECTO - DIGITALIZACIÓN](ProyectoDIGI.md)
+[DOCUMENTACIÓN SOBRE MI PROYECTO DE DIGITALIZACIÓN](ProyectoDIGI.md)
 
 ## ENLACE A WEB GENERADA POR DOKKA
 
