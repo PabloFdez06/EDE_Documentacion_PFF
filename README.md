@@ -1,4 +1,4 @@
-# <p align="center">Documentación de Clases con KDoc y Dokka en Kotlin</p>
+# Documentación de Clases con KDoc y Dokka en Kotlin
 
 ---
 
@@ -16,11 +16,10 @@ Para ello voy a mostrar un par de ejemplos de cual es dicha sintaxis aplicada en
 
 ![img_1.png](img_1.png)
 
----
 
 ## ENLACE A MI PROYECTO | DIGI
 
- [DOCUMENTACIÓN SOBRE MI PROYECTO | DIGITALIZACIÓN](ProyectoDIGI.md)
+[DOCUMENTACIÓN SOBRE MI PROYECTO | DIGITALIZACIÓN](ProyectoDIGI.md)
 
 ## ENLACE A WEB GENERADA POR KDOC
 
